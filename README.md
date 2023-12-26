@@ -1,2 +1,2 @@
 # Data-Structure
-This repository about programming which we use JAVA Language.
+These program only for logic bhuilding.
